@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://katayamayuki.github.io/360sgsv/",
+  "homepage": "https://ykatayamalmd.github.io/360sgsv/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
