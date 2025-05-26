@@ -61,7 +61,7 @@ const Home: React.FC = () => {
       </section>
 
       <section id="comparison" style={{ textAlign: 'center', padding: '2rem 1rem' }}>
-        <h2>Comparison with WonderJourney in Video</h2>
+        <h2>Comparison with WonderJourney (WJ) in Video</h2>
 
         <div style={{ display: 'inline-block', position: 'relative', maxWidth: '100%' }}>
           <video
